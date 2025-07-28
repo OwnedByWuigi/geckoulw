@@ -1,0 +1,26 @@
+/.cvsignore/1.1/Tue Jun  8 19:19:57 1999//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.16/Sat Apr 17 18:32:17 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIMsgFilter.idl/1.25/Wed Jun  1 18:13:12 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsIMsgFilterHitNotify.idl/1.6/Sat Apr 17 18:32:17 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIMsgFilterList.idl/1.22.24.1/Fri Mar 31 16:01:16 2006//TFIREFOX_2_0_0_20_RELEASE
+/nsIMsgFilterPlugin.idl/1.14/Thu Jan 13 20:41:55 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsIMsgFilterService.h/1.8/Sat Apr 17 18:32:17 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIMsgFilterService.idl/1.7/Sat Apr 17 18:32:17 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIMsgSearchAdapter.idl/1.14/Sat Apr 17 18:32:17 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIMsgSearchNotify.idl/1.7/Sat Apr 17 18:32:17 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIMsgSearchScopeTerm.idl/1.7/Thu Apr 22 15:32:54 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIMsgSearchSession.idl/1.28/Wed Apr 28 12:48:57 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIMsgSearchTerm.idl/1.13.24.2/Sun Jun 18 15:12:44 2006//TFIREFOX_2_0_0_20_RELEASE
+/nsIMsgSearchValidityManager.idl/1.5/Sat Apr 17 18:32:17 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIMsgSearchValidityTable.idl/1.7/Sat Apr 17 18:32:17 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIMsgSearchValue.idl/1.8/Sat Apr 17 18:32:17 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsMsgBodyHandler.h/1.9/Thu Apr 22 15:32:54 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsMsgFilterCore.idl/1.13.8.2/Mon Sep 11 19:46:03 2006//TFIREFOX_2_0_0_20_RELEASE
+/nsMsgResultElement.h/1.7/Sat Apr 17 18:32:17 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsMsgSearchAdapter.h/1.34/Tue Dec 14 23:12:31 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsMsgSearchArray.h/1.8/Sat Apr 17 18:32:17 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsMsgSearchBoolExpression.h/1.10.28.1/Fri Mar 17 19:53:20 2006//TFIREFOX_2_0_0_20_RELEASE
+/nsMsgSearchCore.idl/1.28.28.1/Sun Jun 18 15:12:44 2006//TFIREFOX_2_0_0_20_RELEASE
+/nsMsgSearchScopeTerm.h/1.15.28.1/Fri Mar 31 16:01:16 2006//TFIREFOX_2_0_0_20_RELEASE
+/nsMsgSearchTerm.h/1.21.28.2/Tue Jan  9 21:05:08 2007//TFIREFOX_2_0_0_20_RELEASE
+D

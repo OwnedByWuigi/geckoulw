@@ -1,0 +1,25 @@
+/LICENSE/1.1/Fri Jul 14 00:44:50 2000//TNSS_3_11_4_RTM
+/LICENSE-MPL/1.1/Fri Jul 14 00:44:51 2000//TNSS_3_11_4_RTM
+/PRIMES/1.1/Fri Jul 14 00:44:52 2000//TNSS_3_11_4_RTM
+/README/1.3/Wed Feb  2 22:28:23 2005//TNSS_3_11_4_RTM
+/basecvt.c/1.3/Tue Apr 27 23:04:37 2004//TNSS_3_11_4_RTM
+/bbs_rand.c/1.3/Tue Apr 27 23:04:37 2004//TNSS_3_11_4_RTM
+/bbs_rand.h/1.3/Tue Apr 27 23:04:37 2004//TNSS_3_11_4_RTM
+/bbsrand.c/1.3/Tue Apr 27 23:04:37 2004//TNSS_3_11_4_RTM
+/dec2hex.c/1.3/Tue Apr 27 23:04:37 2004//TNSS_3_11_4_RTM
+/exptmod.c/1.3/Tue Apr 27 23:04:37 2004//TNSS_3_11_4_RTM
+/fact.c/1.3/Tue Apr 27 23:04:37 2004//TNSS_3_11_4_RTM
+/gcd.c/1.3/Tue Apr 27 23:04:37 2004//TNSS_3_11_4_RTM
+/hex2dec.c/1.3/Tue Apr 27 23:04:37 2004//TNSS_3_11_4_RTM
+/identest.c/1.2/Wed Nov 29 04:07:10 2000//TNSS_3_11_4_RTM
+/invmod.c/1.3/Tue Apr 27 23:04:37 2004//TNSS_3_11_4_RTM
+/isprime.c/1.3/Tue Apr 27 23:04:37 2004//TNSS_3_11_4_RTM
+/lap.c/1.4/Tue Apr 27 23:04:37 2004//TNSS_3_11_4_RTM
+/makeprime.c/1.3/Tue Apr 27 23:04:37 2004//TNSS_3_11_4_RTM
+/metime.c/1.5/Tue Apr 27 23:04:37 2004//TNSS_3_11_4_RTM
+/pi.c/1.3/Tue Apr 27 23:04:37 2004//TNSS_3_11_4_RTM
+/primegen.c/1.7/Tue Apr 27 23:04:37 2004//TNSS_3_11_4_RTM
+/prng.c/1.4/Tue Apr 27 23:04:37 2004//TNSS_3_11_4_RTM
+/ptab.pl/1.2/Wed Feb  2 22:28:23 2005//TNSS_3_11_4_RTM
+/sieve.c/1.3/Tue Apr 27 23:04:37 2004//TNSS_3_11_4_RTM
+D

@@ -1,0 +1,22 @@
+/Makefile/1.9/Sun Apr 25 15:03:01 2004//TNSS_3_11_4_RTM
+/manifest.mn/1.16/Tue Aug 16 03:42:18 2005//TNSS_3_11_4_RTM
+D/asn1////
+D/base////
+D/certdb////
+D/certhigh////
+D/ckfw////
+D/crmf////
+D/cryptohi////
+D/dev////
+D/freebl////
+D/jar////
+D/nss////
+D/pk11wrap////
+D/pkcs12////
+D/pkcs7////
+D/pki////
+D/pki1////
+D/smime////
+D/softoken////
+D/ssl////
+D/util////

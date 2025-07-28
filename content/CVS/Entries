@@ -1,0 +1,12 @@
+/.cvsignore/1.1/Sat Feb 24 06:22:21 2001//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.10/Mon Apr 18 06:33:19 2005//TFIREFOX_2_0_0_20_RELEASE
+D/base////
+D/canvas////
+D/events////
+D/html////
+D/svg////
+D/xbl////
+D/xml////
+D/xsl////
+D/xtf////
+D/xul////

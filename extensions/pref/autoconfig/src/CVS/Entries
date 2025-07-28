@@ -1,0 +1,17 @@
+/.cvsignore/1.1/Sat Dec 29 03:42:47 2001//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.12.8.1/Fri Feb  3 14:41:09 2006//TFIREFOX_2_0_0_20_RELEASE
+/autoconfig.pkg/1.2/Wed Jan  7 01:21:28 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsAutoConfig.cpp/1.18.4.2/Tue Nov 28 18:04:22 2006//TFIREFOX_2_0_0_20_RELEASE
+/nsAutoConfig.h/1.4.46.1/Fri Feb  3 14:41:09 2006//TFIREFOX_2_0_0_20_RELEASE
+/nsConfigFactory.cpp/1.4.62.1/Fri Feb  3 14:41:09 2006//TFIREFOX_2_0_0_20_RELEASE
+/nsJSConfigTriggers.cpp/1.7.44.1/Fri Feb  3 14:41:09 2006//TFIREFOX_2_0_0_20_RELEASE
+/nsLDAPSyncQuery.cpp/1.13.18.1/Fri Feb  3 14:41:09 2006//TFIREFOX_2_0_0_20_RELEASE
+/nsLDAPSyncQuery.h/1.4.2.1/Fri Feb  3 14:41:09 2006//TFIREFOX_2_0_0_20_RELEASE
+/nsReadConfig.cpp/1.16.2.2/Wed Jan 31 00:58:48 2007//TFIREFOX_2_0_0_20_RELEASE
+/nsReadConfig.h/1.2.46.1/Fri Feb  3 14:41:09 2006//TFIREFOX_2_0_0_20_RELEASE
+/prefcalls.js/1.8.4.1/Fri Feb  3 14:41:09 2006//TFIREFOX_2_0_0_20_RELEASE
+D/beos////
+D/mac////
+D/os2////
+D/unix////
+D/win////

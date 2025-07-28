@@ -1,0 +1,9 @@
+/.cvsignore/1.1/Thu Apr 15 22:56:12 1999//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.13/Sat Apr 17 18:29:41 2004//TFIREFOX_2_0_0_20_RELEASE
+D/build////
+D/defaults////
+D/dirserviceprovider////
+D/pref-migrator////
+D/public////
+D/resources////
+D/src////

@@ -1,0 +1,22 @@
+/.cvsignore/1.2/Sun Mar 30 23:36:45 2003//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.85.2.12/Mon May 12 18:25:50 2008//TFIREFOX_2_0_0_20_RELEASE
+/README.txt/1.1/Mon Aug  9 20:01:04 2004//TFIREFOX_2_0_0_20_RELEASE
+/apprunner-beos.rsrc/1.1.4.2/Sun Nov 11 13:13:37 2007//TFIREFOX_2_0_0_20_RELEASE
+/default.xpm/1.2/Wed Mar 17 21:31:25 2004//TFIREFOX_2_0_0_20_RELEASE
+/document-os2.ico/1.1/Wed May  5 13:38:12 2004/-kb/TFIREFOX_2_0_0_20_RELEASE
+/document.ico/1.2/Tue Mar 16 19:26:55 2004/-kb/TFIREFOX_2_0_0_20_RELEASE
+/document.png/1.2/Thu Jul 15 22:51:15 2004/-kb/TFIREFOX_2_0_0_20_RELEASE
+/firefox-branding.js/1.1.2.2/Tue Sep 12 15:50:19 2006//TFIREFOX_2_0_0_20_RELEASE
+/firefox-os2.ico/1.1/Wed May  5 13:37:18 2004/-kb/TFIREFOX_2_0_0_20_RELEASE
+/firefox.exe.manifest/1.2.38.2/Thu Aug 30 00:41:18 2007//TFIREFOX_2_0_0_20_RELEASE
+/firefox.ico/1.2/Tue Mar 16 19:26:55 2004/-kb/TFIREFOX_2_0_0_20_RELEASE
+/module.ver/1.11.2.31.2.1/Wed Dec 17 16:25:49 2008//TFIREFOX_2_0_0_20_RELEASE
+/mozicon128.png/1.1/Sat Jun 18 12:32:47 2005/-kb/TFIREFOX_2_0_0_20_RELEASE
+/mozicon16.xpm/1.2/Wed Mar 17 21:31:25 2004//TFIREFOX_2_0_0_20_RELEASE
+/mozicon50.xpm/1.2/Wed Mar 17 21:31:25 2004//TFIREFOX_2_0_0_20_RELEASE
+/mozilla.in/1.12.8.2/Thu Nov  8 08:53:19 2007//TFIREFOX_2_0_0_20_RELEASE
+/nsBrowserApp.cpp/1.31.2.5/Mon Dec 31 21:14:43 2007//TFIREFOX_2_0_0_20_RELEASE
+/splash.rc/1.36.10.1/Mon May 15 17:15:56 2006//TFIREFOX_2_0_0_20_RELEASE
+/splashos2.rc/1.9/Tue Mar 15 14:33:10 2005//TFIREFOX_2_0_0_20_RELEASE
+D/macbuild////
+D/profile////

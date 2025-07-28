@@ -1,0 +1,10 @@
+/.cvsignore/1.1/Mon Aug  2 11:56:13 1999//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.9/Tue Aug 24 22:50:30 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsICollation.idl/1.2/Wed Aug 25 07:20:06 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIFontPackageHandler.idl/1.5/Sun Apr 18 14:20:57 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIFontPackageProxy.idl/1.5/Sun Apr 18 14:20:57 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIFontPackageService.idl/1.6/Sun Apr 18 14:20:57 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsILocale.idl/1.8/Sun Apr 18 14:20:57 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsILocaleService.idl/1.9/Sun Apr 18 14:20:57 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIScriptableDateFormat.idl/1.11/Sun Apr 18 14:20:57 2004//TFIREFOX_2_0_0_20_RELEASE
+D

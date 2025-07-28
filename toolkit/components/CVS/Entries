@@ -1,0 +1,25 @@
+/.cvsignore/1.1/Sat Sep 28 00:37:56 2002//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.42.2.10/Tue Nov 28 17:08:41 2006//TFIREFOX_2_0_0_20_RELEASE
+/nsDefaultCLH.js/1.5.8.4/Mon May  7 17:32:10 2007//TFIREFOX_2_0_0_20_RELEASE
+D/alerts////
+D/autocomplete////
+D/build////
+D/commandlines////
+D/console////
+D/cookie////
+D/downloads////
+D/feeds////
+D/filepicker////
+D/gnome////
+D/help////
+D/history////
+D/passwordmgr////
+D/printing////
+D/remote////
+D/satchel////
+D/startup////
+D/typeaheadfind////
+D/url-classifier////
+D/urlformatter////
+D/viewconfig////
+D/viewsource////

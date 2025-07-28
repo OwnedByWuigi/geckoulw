@@ -1,0 +1,10 @@
+/Makefile.in/1.8/Fri Jul  1 05:01:28 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsHttpNegotiateAuth.cpp/1.6/Fri Mar 25 04:26:04 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsHttpNegotiateAuth.h/1.3/Tue Nov 23 07:05:27 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsNegotiateAuth.h/1.1/Wed Apr 28 02:12:51 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsNegotiateAuthFactory.cpp/1.3/Tue Aug 24 21:18:13 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsNegotiateAuthGSSAPI.cpp/1.9/Thu Jul 21 22:34:41 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsNegotiateAuthGSSAPI.h/1.2/Fri Jul  9 21:59:09 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsNegotiateAuthSSPI.cpp/1.4/Mon Mar 21 22:42:07 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsNegotiateAuthSSPI.h/1.3/Mon Mar 21 22:42:07 2005//TFIREFOX_2_0_0_20_RELEASE
+D

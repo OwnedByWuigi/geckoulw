@@ -1,0 +1,13 @@
+/.cvsignore/1.1/Sun Jan 30 00:51:47 2000//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.2/Sat Apr 17 18:32:55 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIImportABDescriptor.idl/1.4/Sat Apr 17 18:32:55 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIImportAddressBooks.idl/1.9/Sat Apr 17 18:32:55 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIImportFieldMap.idl/1.5/Wed Jul 13 17:19:23 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsIImportGeneric.idl/1.10/Sat Apr 17 18:32:55 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIImportMail.idl/1.9/Wed May  4 20:11:15 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsIImportMailboxDescriptor.idl/1.4/Sat Apr 17 18:32:55 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIImportMimeEncode.idl/1.5/Sat Apr 17 18:32:55 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIImportModule.idl/1.5/Sat Apr 17 18:32:55 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIImportService.idl/1.8/Sat Apr 17 18:32:55 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIImportSettings.idl/1.4/Sat Apr 17 18:32:55 2004//TFIREFOX_2_0_0_20_RELEASE
+D

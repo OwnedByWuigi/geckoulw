@@ -1,0 +1,26 @@
+/modules.mk/1.54.4.1/Wed Aug 23 02:50:03 2006//TFIREFOX_2_0_0_20_RELEASE
+/uniq.pl/1.4/Sun Apr 18 14:17:09 2004//TFIREFOX_2_0_0_20_RELEASE
+/.cvsignore/1.5/Fri Apr 22 17:11:13 2005//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.27/Thu Jul  7 18:24:39 2005//TFIREFOX_2_0_0_20_RELEASE
+/abs2rel.pl/1.2/Sun Apr 18 14:17:09 2004//TFIREFOX_2_0_0_20_RELEASE
+/aix.exp/1.1/Thu Nov  8 12:15:45 2001//TFIREFOX_2_0_0_20_RELEASE
+/mddepend.pl/1.9/Mon Mar 14 15:57:26 2005//TFIREFOX_2_0_0_20_RELEASE
+/mozilla-config.in/1.6/Thu Apr 22 20:17:59 2004//TFIREFOX_2_0_0_20_RELEASE
+/mozilla-gtkmozembed.pc.in/1.3/Fri Apr 22 17:11:13 2005//TFIREFOX_2_0_0_20_RELEASE
+/mozilla-js.pc.in/1.6.4.1/Tue Sep  4 16:14:04 2007//TFIREFOX_2_0_0_20_RELEASE
+/mozilla-nspr.pc.in/1.3/Tue Jul  5 23:21:52 2005//TFIREFOX_2_0_0_20_RELEASE
+/mozilla-nss.pc.in/1.3/Tue Jul  5 23:21:52 2005//TFIREFOX_2_0_0_20_RELEASE
+/mozilla-plugin.pc.in/1.2.8.1/Sun Feb  4 10:45:24 2007//TFIREFOX_2_0_0_20_RELEASE
+/mozilla-xpcom.pc.in/1.5/Tue Jul  5 23:21:52 2005//TFIREFOX_2_0_0_20_RELEASE
+/nspr_my_config.mk.in/1.3/Fri Aug 11 00:13:33 2000//TFIREFOX_2_0_0_20_RELEASE
+/nspr_my_overrides.mk.in/1.3/Sat Oct 21 08:33:14 2000//TFIREFOX_2_0_0_20_RELEASE
+/print-depth-path.sh/1.2/Sun Apr 18 14:17:09 2004//TFIREFOX_2_0_0_20_RELEASE
+/print-failed-commands.sh/1.2/Fri Jun 23 21:31:42 2000//TFIREFOX_2_0_0_20_RELEASE
+/print-non-newline.sh/1.2/Sun Apr 18 14:17:09 2004//TFIREFOX_2_0_0_20_RELEASE
+/run-gprof.sh/1.1/Sat Mar 11 19:56:25 2000//TFIREFOX_2_0_0_20_RELEASE
+/run-hiprof.sh/1.3/Sat Jun 10 10:56:50 2000//TFIREFOX_2_0_0_20_RELEASE
+/run-mozilla.sh/1.48.28.1/Sat Oct  1 05:36:47 2005//TFIREFOX_2_0_0_20_RELEASE
+/run-third.sh/1.1/Sat Jun 10 10:56:51 2000//TFIREFOX_2_0_0_20_RELEASE
+/unix.pkg/1.2/Wed Jan  7 01:21:15 2004//TFIREFOX_2_0_0_20_RELEASE
+D/gnu-ld-scripts////
+D/vms////

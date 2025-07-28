@@ -1,0 +1,10 @@
+/.cvsignore/1.1/Sat Feb 24 06:22:25 2001//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.8.18.2/Thu Feb 23 04:04:44 2006//TFIREFOX_2_0_0_20_RELEASE
+/nsIAuthPromptWrapper.idl/1.1/Thu Feb  7 15:56:35 2002//TFIREFOX_2_0_0_20_RELEASE
+/nsIDialogParamBlock.idl/1.7/Sun Apr 18 22:00:50 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsINonBlockingAlertService.idl/1.2.8.3/Fri Mar 31 08:14:00 2006//TFIREFOX_2_0_0_20_RELEASE
+/nsIPromptService.idl/1.16/Tue Nov 16 20:36:26 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIWindowWatcher.idl/1.14.12.3/Tue Feb 14 21:25:24 2006//TFIREFOX_2_0_0_20_RELEASE
+/nsPIPromptService.idl/1.9/Sat Jun  5 09:26:00 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsPIWindowWatcher.idl/1.9.8.2/Tue Feb 14 05:28:31 2006//TFIREFOX_2_0_0_20_RELEASE
+D

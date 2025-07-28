@@ -1,0 +1,9 @@
+/.cvsignore/1.1/Sun Jul 27 07:05:22 2003//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.7/Thu Aug 11 20:07:41 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsIPassword.idl/1.2/Tue Feb  1 17:07:03 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsIPasswordInternal.idl/1.1/Thu Aug 11 20:07:41 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsPasswordManager.cpp/1.65.2.17/Tue Jan 15 00:57:01 2008//TFIREFOX_2_0_0_20_RELEASE
+/nsPasswordManager.h/1.15.4.3/Tue Jan 15 00:57:01 2008//TFIREFOX_2_0_0_20_RELEASE
+/nsSingleSignonPrompt.cpp/1.6/Fri Apr 15 14:55:55 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsSingleSignonPrompt.h/1.2/Thu Sep  4 03:02:33 2003//TFIREFOX_2_0_0_20_RELEASE
+D

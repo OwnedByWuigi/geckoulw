@@ -1,0 +1,62 @@
+/client.mk/1.245.2.41.16.1/Wed Dec 17 16:25:48 2008//TFIREFOX_2_0_0_20_RELEASE
+D/browser////
+D/build////
+D/xulrunner////
+D/nsprpub////
+D/security////
+D/directory////
+D/accessible////
+D/calendar////
+D/chrome////
+D/db////
+D/ipc////
+D/mail////
+D/modules////
+D/other-licenses////
+D/storage////
+D/toolkit////
+D/tools////
+D/editor////
+D/extensions////
+D/README////
+/README.txt/1.7/Sat Mar 13 06:25:28 2004//TFIREFOX_2_0_0_20_RELEASE
+/client.mak/3.125/Fri Jul 16 18:13:24 2004//TFIREFOX_2_0_0_20_RELEASE
+/configure/1.1492.2.130/Sun Oct 19 16:21:23 2008//TFIREFOX_2_0_0_20_RELEASE
+/configure.in/1.1503.2.112/Sun Oct 19 16:14:06 2008//TFIREFOX_2_0_0_20_RELEASE
+/allmakefiles.sh/1.579.2.32/Wed Sep  3 08:43:14 2008//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.299.2.21/Fri Aug  3 14:31:17 2007//TFIREFOX_2_0_0_20_RELEASE
+/makefile.win/3.119/Fri Jul 16 18:13:24 2004//TFIREFOX_2_0_0_20_RELEASE
+/aclocal.m4/1.14.28.1/Tue Jan 31 12:24:13 2006//TFIREFOX_2_0_0_20_RELEASE
+D/caps////
+D/config////
+D/dbm////
+D/docshell////
+D/embedding////
+D/gc////
+D/intl////
+D/jpeg////
+D/js////
+D/lib////
+D/netwerk////
+/nglayout.mk/1.34/Sun Dec 29 00:13:37 2002//TFIREFOX_2_0_0_20_RELEASE
+D/plugin////
+D/profile////
+D/rdf////
+D/sun-java////
+D/uriloader////
+D/xpcom////
+D/xpinstall////
+/LEGAL/3.3/Tue Jul  6 23:00:05 1999//TFIREFOX_2_0_0_20_RELEASE
+/LICENSE/3.2/Wed Oct  6 02:14:51 1999//TFIREFOX_2_0_0_20_RELEASE
+D/content////
+D/dom////
+D/gfx////
+D/parser////
+D/layout////
+D/view////
+D/webshell////
+D/widget////
+D/themes////
+D/xpfe////
+D/mailnews////
+D/l10n////

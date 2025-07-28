@@ -1,0 +1,17 @@
+/.cvsignore/1.2/Tue Feb 22 20:17:29 2000//TFIREFOX_2_0_0_20_RELEASE
+/INSTALL/1.8/Sat Apr  1 23:41:27 2000//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.12/Sun Apr 18 22:14:15 2004//TFIREFOX_2_0_0_20_RELEASE
+/README/1.5/Sat Apr 15 04:42:10 2000//TFIREFOX_2_0_0_20_RELEASE
+/UUID.txt/1.4/Fri Sep  7 21:32:05 2001//TFIREFOX_2_0_0_20_RELEASE
+/jar.mn/1.6/Fri Dec 28 22:39:45 2001//TFIREFOX_2_0_0_20_RELEASE
+D/base////
+D/build////
+D/config////
+D/distrib////
+D/doc////
+D/geckoterm////
+D/lineterm////
+D/linetest////
+D/scripts////
+D/tests////
+D/ui////

@@ -1,0 +1,13 @@
+/.cvsignore/1.1/Sun Jan 30 00:51:45 2000//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.13/Tue Nov 23 19:33:50 2004//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.win/1.9/Sat Apr 17 18:32:51 2004//TFIREFOX_2_0_0_20_RELEASE
+/msgimport.pkg/1.2/Wed Jan  7 01:21:56 2004//TFIREFOX_2_0_0_20_RELEASE
+D/build////
+D/comm4x////
+D/eudora////
+D/oexpress////
+D/outlook////
+D/public////
+D/resources////
+D/src////
+D/text////

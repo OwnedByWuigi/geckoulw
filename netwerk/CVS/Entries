@@ -1,0 +1,18 @@
+/.cvsignore/1.3/Mon Oct  6 08:21:09 2003//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.30.8.1/Fri May  5 23:52:16 2006//TFIREFOX_2_0_0_20_RELEASE
+/necko-config.h.in/1.4.20.1/Wed Jun 28 03:35:13 2006//TFIREFOX_2_0_0_20_RELEASE
+D/base////
+D/build////
+D/build2////
+D/cache////
+D/cookie////
+D/dns////
+D/locales////
+D/mime////
+D/protocol////
+D/resources////
+D/socket////
+D/streamconv////
+D/system////
+D/test////
+D/testserver////

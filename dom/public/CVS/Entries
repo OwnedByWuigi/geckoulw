@@ -1,0 +1,22 @@
+/.cvsignore/1.1/Sat Dec  5 09:01:17 1998//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.30/Fri Jul 16 17:03:07 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsDOMCID.h/3.12/Sat Apr 17 21:50:07 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsDOMError.h/3.14.24.1/Wed Jan 24 03:47:20 2007//TFIREFOX_2_0_0_20_RELEASE
+/nsDOMString.h/1.1/Thu Apr  1 19:44:17 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIBaseDOMException.h/3.3/Mon Jul 19 04:04:41 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIDOMClassInfo.h/1.67.4.10/Thu Jun 15 03:15:46 2006//TFIREFOX_2_0_0_20_RELEASE
+/nsIDOMScriptObjectFactory.h/3.16/Sat Jul 30 20:57:05 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsIEntropyCollector.idl/3.3/Sat Apr 17 21:50:07 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIJSEventListener.h/3.9/Sat Jul 30 20:57:05 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsIJSNativeInitializer.h/3.6.28.1/Tue Feb 12 21:07:01 2008//TFIREFOX_2_0_0_20_RELEASE
+/nsIScriptContext.h/3.61.2.1/Fri Sep 16 15:46:32 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsIScriptContextOwner.idl/1.4/Sat Apr 17 21:50:07 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIScriptExternalNameSet.h/1.8/Sat Apr 17 21:50:07 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIScriptGlobalObject.h/3.26.2.3/Wed Oct 12 20:19:48 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsIScriptGlobalObjectOwner.h/1.1/Fri Jul 16 17:03:07 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIScriptNameSpaceManager.h/1.13/Sat Apr 17 21:50:07 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIScriptObjectOwner.h/3.18/Sat Apr 17 21:50:07 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIScriptObjectPrincipal.h/1.4/Sun Apr 18 00:28:46 2004//TFIREFOX_2_0_0_20_RELEASE
+D/base////
+D/coreEvents////
+D/idl////

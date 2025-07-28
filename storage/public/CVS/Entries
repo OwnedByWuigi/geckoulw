@@ -1,0 +1,11 @@
+/Makefile.in/1.2.18.1/Mon Jan 23 04:59:04 2006//TFIREFOX_2_0_0_20_RELEASE
+/mozIStorageConnection.idl/1.3.6.4/Tue Apr 11 17:37:13 2006//TFIREFOX_2_0_0_20_RELEASE
+/mozIStorageDataSet.idl/1.1/Sat Oct  9 00:04:10 2004//TFIREFOX_2_0_0_20_RELEASE
+/mozIStorageFunction.idl/1.1.18.1/Mon Jan 23 05:24:58 2006//TFIREFOX_2_0_0_20_RELEASE
+/mozIStorageService.idl/1.1.18.3/Wed May  3 23:26:06 2006//TFIREFOX_2_0_0_20_RELEASE
+/mozIStorageStatement.idl/1.4.8.1/Mon Jan 23 05:24:58 2006//TFIREFOX_2_0_0_20_RELEASE
+/mozIStorageStatementWrapper.idl/1.2.6.1/Mon Jan 23 05:24:58 2006//TFIREFOX_2_0_0_20_RELEASE
+/mozIStorageValueArray.idl/1.1.18.3/Wed Feb  8 02:18:01 2006//TFIREFOX_2_0_0_20_RELEASE
+/mozStorage.h/1.2/Thu May 12 01:09:04 2005//TFIREFOX_2_0_0_20_RELEASE
+/mozStorageHelper.h/1.1.2.2/Mon Jan 23 04:59:04 2006//TFIREFOX_2_0_0_20_RELEASE
+D

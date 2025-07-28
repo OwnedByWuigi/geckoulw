@@ -1,0 +1,9 @@
+/.cvsignore/1.1/Tue Feb  2 00:58:46 1999//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.25/Thu Feb  3 23:01:45 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsCollationUnix.cpp/1.66/Tue Jan 25 13:08:23 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsCollationUnix.h/1.20/Tue Aug 24 22:50:31 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsDateTimeFormatUnix.cpp/1.59.12.1/Wed Mar 21 04:42:36 2007//TFIREFOX_2_0_0_20_RELEASE
+/nsDateTimeFormatUnix.h/1.15/Sun Apr 18 14:21:05 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsPosixLocale.cpp/1.26/Thu Jun 17 00:12:49 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsPosixLocale.h/1.10/Sun Apr 18 14:21:05 2004//TFIREFOX_2_0_0_20_RELEASE
+D

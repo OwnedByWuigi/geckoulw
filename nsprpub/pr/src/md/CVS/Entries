@@ -1,0 +1,8 @@
+/.cvsignore/1.2/Sat May 12 04:24:53 2001//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.12/Sun Apr 25 15:00:58 2004//TFIREFOX_2_0_0_20_RELEASE
+/prosdep.c/3.11/Sun Apr 25 15:00:58 2004//TFIREFOX_2_0_0_20_RELEASE
+D/beos////
+D/mac////
+D/os2////
+D/unix////
+D/windows////

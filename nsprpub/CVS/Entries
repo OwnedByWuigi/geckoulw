@@ -1,0 +1,11 @@
+/.cvsignore/1.2/Sat May 12 00:53:26 2001//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.22.2.1/Fri Jul 14 22:31:04 2006//TFIREFOX_2_0_0_20_RELEASE
+/configure/1.197.2.17/Wed Oct 31 18:07:38 2007//TFIREFOX_2_0_0_20_RELEASE
+/configure.in/1.199.2.17/Wed Oct 31 18:07:38 2007//TFIREFOX_2_0_0_20_RELEASE
+D/admin////
+D/build////
+D/config////
+D/lib////
+D/pkg////
+D/pr////
+D/tools////

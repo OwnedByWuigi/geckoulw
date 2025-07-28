@@ -1,0 +1,14 @@
+/.cvsignore/1.1/Mon Feb 19 05:24:30 2001//TFIREFOX_2_0_0_20_RELEASE
+/pyxpcom_test_tools.py/1.1/Fri May  9 01:23:22 2003//TFIREFOX_2_0_0_20_RELEASE
+/regrtest.py/1.6.20.1/Wed Aug 31 13:18:32 2005//TFIREFOX_2_0_0_20_RELEASE
+/test_com_exceptions.py/1.3/Wed Aug 25 23:02:43 2004//TFIREFOX_2_0_0_20_RELEASE
+/test_comfile.py/1.3.20.1/Wed Aug 31 13:18:32 2005//TFIREFOX_2_0_0_20_RELEASE
+/test_components.py/1.4/Wed Aug 25 23:02:43 2004//TFIREFOX_2_0_0_20_RELEASE
+/test_isupports_primitives.py/1.5/Fri Jul 16 19:30:07 2004//TFIREFOX_2_0_0_20_RELEASE
+/test_misc.py/1.8.20.1/Wed Aug 31 13:18:32 2005//TFIREFOX_2_0_0_20_RELEASE
+/test_streams.py/1.3.20.1/Wed Aug 31 13:18:32 2005//TFIREFOX_2_0_0_20_RELEASE
+/test_test_component.js/1.4/Sun Apr 18 22:13:54 2004//TFIREFOX_2_0_0_20_RELEASE
+/test_test_component.py/1.12/Fri Jul 16 19:30:07 2004//TFIREFOX_2_0_0_20_RELEASE
+/test_weakreferences.py/1.4/Wed Aug 25 23:02:43 2004//TFIREFOX_2_0_0_20_RELEASE
+D/output////
+D/test_component////

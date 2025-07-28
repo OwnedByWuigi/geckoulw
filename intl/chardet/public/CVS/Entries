@@ -1,0 +1,17 @@
+/.cvsignore/1.1/Tue May 18 21:50:29 1999//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.11/Sun Apr 18 14:20:43 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsCharsetDetectionAdaptorCID.h/1.7/Sun Apr 18 14:20:43 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsDetectionConfident.h/1.7/Sun Apr 18 14:20:43 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsDocumentCharsetInfoCID.h/1.1/Thu Nov 16 21:33:29 2000//TFIREFOX_2_0_0_20_RELEASE
+/nsICharsetDetectionAdaptor.h/1.10/Mon Jan  3 22:51:10 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsICharsetDetectionObserver.h/1.7/Sun Apr 18 14:20:43 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsICharsetDetector.h/1.10/Sun Apr 18 14:20:43 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsICharsetResolver.idl/1.2/Sat Mar  5 03:35:53 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsIDocCharset.idl/1.6/Sun Apr 18 14:20:43 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIDocumentCharsetInfo.idl/1.2/Wed Dec 26 03:17:18 2001//TFIREFOX_2_0_0_20_RELEASE
+/nsIMetaCharsetService.h/1.7/Sun Apr 18 14:20:43 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIStringCharsetDetector.h/1.10/Sun Apr 18 14:20:43 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsIXMLEncodingService.h/1.6/Sun Apr 18 14:20:43 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsMetaCharsetCID.h/1.7/Sun Apr 18 14:20:43 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsXMLEncodingCID.h/1.7/Sun Apr 18 14:20:43 2004//TFIREFOX_2_0_0_20_RELEASE
+D

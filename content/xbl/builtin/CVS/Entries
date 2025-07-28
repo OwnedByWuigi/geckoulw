@@ -1,0 +1,10 @@
+/.cvsignore/1.1/Sat Feb 24 06:22:16 2001//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.17.4.1/Sun Jan 29 16:50:52 2006//TFIREFOX_2_0_0_20_RELEASE
+/browser-base.inc/1.2/Fri Dec 31 03:12:16 2004//TFIREFOX_2_0_0_20_RELEASE
+/editor-base.inc/1.2/Mon Sep 13 22:35:39 2004//TFIREFOX_2_0_0_20_RELEASE
+/input-fields-base.inc/1.2/Mon Sep 13 22:35:39 2004//TFIREFOX_2_0_0_20_RELEASE
+/textareas-base.inc/1.2/Mon Sep 13 22:35:39 2004//TFIREFOX_2_0_0_20_RELEASE
+D/gtk2////
+D/mac////
+D/unix////
+D/win////

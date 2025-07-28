@@ -1,0 +1,8 @@
+/.cvsignore/1.1/Sun Jul 18 00:26:01 1999//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.19/Wed Jun  1 17:40:08 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsICryptoHash.idl/1.2.4.1/Fri Aug 26 06:41:50 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsIPrincipal.idl/1.32.2.1/Fri Jun  6 23:56:32 2008//TFIREFOX_2_0_0_20_RELEASE
+/nsIScriptSecurityManager.idl/1.66/Fri Jul 22 19:05:38 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsISecurityCheckedComponent.idl/1.6/Sat Apr 17 21:50:35 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsISignatureVerifier.idl/1.9/Wed Jun  1 17:40:08 2005//TFIREFOX_2_0_0_20_RELEASE
+D

@@ -1,0 +1,7 @@
+/.cvsignore/1.2/Wed May 21 20:13:24 2003//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.57.4.6/Fri May 23 23:45:26 2008//TFIREFOX_2_0_0_20_RELEASE
+/psm.pkg/1.2.46.1/Fri Feb  3 22:41:16 2006//TFIREFOX_2_0_0_20_RELEASE
+D/boot////
+D/locales////
+D/pki////
+D/ssl////

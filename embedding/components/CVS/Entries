@@ -1,0 +1,12 @@
+/.cvsignore/1.1/Sat Feb 24 06:22:28 2001//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.17/Fri Apr 29 13:33:36 2005//TFIREFOX_2_0_0_20_RELEASE
+D/appstartup////
+D/build////
+D/commandhandler////
+D/find////
+D/jsconsole////
+D/printingui////
+D/profilesharingsetup////
+D/ui////
+D/webbrowserpersist////
+D/windowwatcher////

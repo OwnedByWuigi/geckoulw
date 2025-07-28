@@ -1,0 +1,24 @@
+/.cvsignore/1.1/Fri Jun  2 18:37:14 2000//TNSS_3_11_4_RTM
+/Makefile/1.2/Sun Apr 25 15:03:03 2004//TNSS_3_11_4_RTM
+/alg1485.c/1.24/Thu Jul  1 00:21:42 2004//TNSS_3_11_4_RTM
+/cert.h/1.53/Wed Mar  9 23:02:47 2005//TNSS_3_11_4_RTM
+/certdb.c/1.76.2.1/Thu Feb 16 00:14:18 2006//TNSS_3_11_4_RTM
+/certdb.h/1.19/Wed Aug 17 02:04:12 2005//TNSS_3_11_4_RTM
+/certi.h/1.16/Sun Apr 17 03:17:06 2005//TNSS_3_11_4_RTM
+/certt.h/1.33.2.1/Thu Feb 16 00:14:18 2006//TNSS_3_11_4_RTM
+/certv3.c/1.8/Sun Apr 25 15:03:03 2004//TNSS_3_11_4_RTM
+/certxutl.c/1.5/Sat Apr  2 05:14:10 2005//TNSS_3_11_4_RTM
+/certxutl.h/1.2/Sun Apr 25 15:03:03 2004//TNSS_3_11_4_RTM
+/config.mk/1.3/Sun Apr 25 15:03:03 2004//TNSS_3_11_4_RTM
+/crl.c/1.49.24.4/Mon Sep 11 23:14:09 2006//TNSS_3_11_4_RTM
+/genname.c/1.29/Thu Jun 30 20:53:46 2005//TNSS_3_11_4_RTM
+/genname.h/1.9/Tue Nov  9 06:13:32 2004//TNSS_3_11_4_RTM
+/manifest.mn/1.11/Sun Apr 25 15:03:03 2004//TNSS_3_11_4_RTM
+/polcyxtn.c/1.6/Sun Apr 25 15:03:03 2004//TNSS_3_11_4_RTM
+/secname.c/1.18/Sun Apr 25 15:03:03 2004//TNSS_3_11_4_RTM
+/stanpcertdb.c/1.67.28.5/Wed Aug 23 01:36:30 2006//TNSS_3_11_4_RTM
+/xauthkid.c/1.4.28.1/Sat May 13 00:33:14 2006//TNSS_3_11_4_RTM
+/xbsconst.c/1.5/Sun Apr 25 15:03:03 2004//TNSS_3_11_4_RTM
+/xconst.c/1.8/Tue Nov  9 06:13:32 2004//TNSS_3_11_4_RTM
+/xconst.h/1.4/Sun Apr 25 15:03:03 2004//TNSS_3_11_4_RTM
+D

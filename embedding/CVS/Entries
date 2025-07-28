@@ -1,0 +1,14 @@
+/.cvsignore/1.1/Thu Feb  3 00:58:36 2000//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.16/Wed Dec 15 04:06:52 2004//TFIREFOX_2_0_0_20_RELEASE
+/embed.pkg/1.2/Wed Jan  7 01:21:21 2004//TFIREFOX_2_0_0_20_RELEASE
+D/base////
+D/browser////
+D/componentlib////
+D/components////
+D/config////
+D/examples////
+D/lite////
+D/minimo////
+D/qa////
+D/tests////
+D/wrappers////

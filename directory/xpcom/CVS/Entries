@@ -1,0 +1,7 @@
+/.cvsignore/1.1/Tue Jun  6 07:23:19 2000//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.5/Sun Apr 25 21:07:10 2004//TFIREFOX_2_0_0_20_RELEASE
+/README.txt/1.6/Mon Jul 10 21:27:05 2000//TFIREFOX_2_0_0_20_RELEASE
+/TODO.txt/1.33/Fri Mar  9 03:25:47 2001//TFIREFOX_2_0_0_20_RELEASE
+D/base////
+D/datasource////
+D/tests////

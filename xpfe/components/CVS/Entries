@@ -1,0 +1,33 @@
+/.cvsignore/1.1/Thu Apr 22 00:49:00 1999//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.74.8.3/Tue May  2 07:32:58 2006//TFIREFOX_2_0_0_20_RELEASE
+/jar.mn/1.76.8.2/Fri Mar  3 09:49:05 2006//TFIREFOX_2_0_0_20_RELEASE
+/nsXPFEComponentsCID.h/1.1/Fri Oct 29 19:28:31 2004//TFIREFOX_2_0_0_20_RELEASE
+D/alerts////
+D/autocomplete////
+D/bookmarks////
+D/build////
+D/build2////
+D/console////
+D/cookie////
+D/directory////
+D/download-manager////
+D/extensions////
+D/filepicker////
+D/find////
+D/history////
+D/intl////
+D/killAll////
+D/permissions////
+D/prefwindow////
+D/related////
+D/resetPref////
+D/search////
+D/shistory////
+D/sidebar////
+D/startup////
+D/updates////
+D/urlwidget////
+D/windowds////
+D/winhooks////
+D/xfer////
+D/xremote////

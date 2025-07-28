@@ -1,0 +1,17 @@
+/.cvsignore/1.3/Mon May 14 22:10:58 2001//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.40.2.2/Thu Oct 19 00:39:28 2006//TFIREFOX_2_0_0_20_RELEASE
+/nspr.def/1.13/Mon May  9 19:02:20 2005//TFIREFOX_2_0_0_20_RELEASE
+/nspr.rc/3.11/Sun Apr 25 15:00:57 2004//TFIREFOX_2_0_0_20_RELEASE
+/nspr_symvec.opt/1.9/Fri May  6 18:46:11 2005//TFIREFOX_2_0_0_20_RELEASE
+/os2extra.def/1.2/Thu Mar 25 23:28:51 2004//TFIREFOX_2_0_0_20_RELEASE
+/prvrsion.c/3.15/Sun Apr 25 15:00:57 2004//TFIREFOX_2_0_0_20_RELEASE
+D/bthreads////
+D/cplus////
+D/io////
+D/linking////
+D/malloc////
+D/md////
+D/memory////
+D/misc////
+D/pthreads////
+D/threads////

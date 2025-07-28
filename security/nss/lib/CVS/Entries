@@ -1,0 +1,21 @@
+/Makefile/1.9/Sun Apr 25 15:03:01 2004//TFIREFOX_2_0_0_20_RELEASE
+/manifest.mn/1.16.2.2/Fri Nov 16 05:25:04 2007//TFIREFOX_2_0_0_20_RELEASE
+D/base////
+D/certdb////
+D/certhigh////
+D/ckfw////
+D/crmf////
+D/cryptohi////
+D/dev////
+D/freebl////
+D/jar////
+D/nss////
+D/pk11wrap////
+D/pkcs12////
+D/pkcs7////
+D/pki////
+D/pki1////
+D/smime////
+D/softoken////
+D/ssl////
+D/util////

@@ -1,0 +1,41 @@
+/command-manager.js/1.17/Mon Jul 19 19:18:34 2004//TFIREFOX_2_0_0_20_RELEASE
+/contents.rdf/1.11/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/file-utils.js/1.8/Mon Apr 26 10:05:21 2004//TFIREFOX_2_0_0_20_RELEASE
+/html-consts.js/1.5/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/menu-manager.js/1.5/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/pref-manager.js/1.4/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/tree-utils.js/1.30/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/venkman-bindings.xml/1.8/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/venkman-bpprops.js/1.4/Sun Oct 24 17:45:21 2004//TFIREFOX_2_0_0_20_RELEASE
+/venkman-bpprops.xul/1.3/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/venkman-commands.js/1.40/Thu Aug 19 23:00:26 2004//TFIREFOX_2_0_0_20_RELEASE
+/venkman-debugger.js/1.58/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/venkman-dev.js/1.14/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/venkman-eval.js/1.7/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/venkman-floater.js/1.6/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/venkman-floater.xul/1.3/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/venkman-handlers.js/1.44/Mon Apr 26 10:03:32 2004//TFIREFOX_2_0_0_20_RELEASE
+/venkman-jsdurl.js/1.13/Sun Feb 27 19:34:10 2005//TFIREFOX_2_0_0_20_RELEASE
+/venkman-menus.js/1.17/Sun Oct 10 07:18:09 2004//TFIREFOX_2_0_0_20_RELEASE
+/venkman-menus.xul/1.18/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/venkman-msg.js/1.31/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/venkman-munger.js/1.4/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/venkman-output-base.css/1.7/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/venkman-output-window.html/1.4/Thu Jul 18 00:54:06 2002//TFIREFOX_2_0_0_20_RELEASE
+/venkman-overlay.js/1.2/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/venkman-overlay.xul/1.6/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/venkman-prefs.js/1.18/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/venkman-profiler.js/1.7/Tue Aug  2 15:55:56 2005//TFIREFOX_2_0_0_20_RELEASE
+/venkman-records.js/1.14.24.1/Sun Sep  9 20:42:49 2007//TFIREFOX_2_0_0_20_RELEASE
+/venkman-scripts.xul/1.10/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/venkman-source2-window.html/1.2/Thu Jul 18 00:54:07 2002//TFIREFOX_2_0_0_20_RELEASE
+/venkman-static.js/1.66/Wed Oct 13 02:30:45 2004//TFIREFOX_2_0_0_20_RELEASE
+/venkman-url-loader.js/1.12/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/venkman-utils.js/1.29.24.1/Sun Sep  9 20:42:49 2007//TFIREFOX_2_0_0_20_RELEASE
+/venkman-views.js/1.27.8.2/Sun Sep  9 20:42:49 2007//TFIREFOX_2_0_0_20_RELEASE
+/venkman-views.xul/1.11/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/venkman.xul/1.33/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/view-manager.js/1.11/Sun Apr 18 22:14:03 2004//TFIREFOX_2_0_0_20_RELEASE
+D/ff////
+D/sm////
+D/tests////

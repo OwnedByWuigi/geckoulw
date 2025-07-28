@@ -1,0 +1,10 @@
+/.cvsignore/1.1/Wed Mar 31 08:30:27 1999//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.26/Sun Apr 18 22:14:04 2004//TFIREFOX_2_0_0_20_RELEASE
+/jar.mn/1.24/Fri May 20 12:58:28 2005//TFIREFOX_2_0_0_20_RELEASE
+D/build////
+D/editor////
+D/public////
+D/resources////
+D/signonviewer////
+D/src////
+D/walletpreview////

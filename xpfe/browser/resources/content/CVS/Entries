@@ -1,0 +1,34 @@
+/.cvsignore/1.2/Sat Jul 15 15:54:29 2000//TFIREFOX_2_0_0_20_RELEASE
+/browser.js/1.34.12.4/Sun Oct 22 18:59:39 2006//TFIREFOX_2_0_0_20_RELEASE
+/contents-region.rdf/1.20/Wed Feb  4 14:24:14 2004//TFIREFOX_2_0_0_20_RELEASE
+/contents.rdf/1.27/Mon May 23 08:34:02 2005//TFIREFOX_2_0_0_20_RELEASE
+/languageDictionary.js/1.2/Thu Jan  3 02:17:04 2002//TFIREFOX_2_0_0_20_RELEASE
+/linkToolbarHandler.js/1.8/Tue Jun 24 11:29:50 2003//TFIREFOX_2_0_0_20_RELEASE
+/linkToolbarItem.js/1.4/Sun Feb 23 03:37:56 2003//TFIREFOX_2_0_0_20_RELEASE
+/linkToolbarOverlay.js/1.15/Mon Jul 25 22:09:39 2005//TFIREFOX_2_0_0_20_RELEASE
+/linkToolbarOverlay.xul/1.15.2.1/Fri Apr  7 08:12:20 2006//TFIREFOX_2_0_0_20_RELEASE
+/mailNavigatorOverlay.xul/1.11.2.1/Sat Nov 25 16:17:47 2006//TFIREFOX_2_0_0_20_RELEASE
+/metadata.js/1.24/Fri Mar 18 10:38:52 2005//TFIREFOX_2_0_0_20_RELEASE
+/metadata.xul/1.17/Sat Apr 17 16:51:13 2004//TFIREFOX_2_0_0_20_RELEASE
+/navExtraOverlay.xul/1.5/Sat Apr 17 16:51:13 2004//TFIREFOX_2_0_0_20_RELEASE
+/navigator.css/1.12/Tue Nov 16 22:40:47 2004//TFIREFOX_2_0_0_20_RELEASE
+/navigator.js/1.577.2.26/Sat Apr 19 20:44:55 2008//TFIREFOX_2_0_0_20_RELEASE
+/navigator.xul/1.431.2.7/Wed Nov 29 00:26:53 2006//TFIREFOX_2_0_0_20_RELEASE
+/navigatorDD.js/1.103/Mon Jul 25 23:05:33 2005//TFIREFOX_2_0_0_20_RELEASE
+/navigatorOverlay.xul/1.310.4.13/Wed Nov 28 16:42:31 2007//TFIREFOX_2_0_0_20_RELEASE
+/nsBrowserContentListener.js/1.20/Sun Feb 27 18:33:27 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsBrowserStatusHandler.js/1.62.16.7/Mon Apr  7 13:51:27 2008//TFIREFOX_2_0_0_20_RELEASE
+/pageInfo.js/1.73.2.3/Wed Jun 28 16:43:44 2006//TFIREFOX_2_0_0_20_RELEASE
+/pageInfo.xul/1.57.4.3/Tue Jun 27 22:37:33 2006//TFIREFOX_2_0_0_20_RELEASE
+/searchconfig.properties/1.4/Mon Oct 11 23:08:03 2004//TFIREFOX_2_0_0_20_RELEASE
+/sessionHistoryUI.js/1.54/Thu Jul 14 04:48:56 2005//TFIREFOX_2_0_0_20_RELEASE
+/turboDialog.xul/1.12/Thu Mar 10 18:44:08 2005//TFIREFOX_2_0_0_20_RELEASE
+/urlbarBindings.xml/1.33.2.2/Sun Jan 21 20:42:25 2007//TFIREFOX_2_0_0_20_RELEASE
+/viewPartialSource.js/1.10/Wed Jul 27 07:51:52 2005//TFIREFOX_2_0_0_20_RELEASE
+/viewPartialSource.xul/1.6.8.2/Thu Nov 16 22:07:24 2006//TFIREFOX_2_0_0_20_RELEASE
+/viewSource.xul/1.54.8.3/Thu Nov 16 22:07:24 2006//TFIREFOX_2_0_0_20_RELEASE
+/viewSourceOverlay.xul/1.25.4.2/Thu Nov 16 22:07:24 2006//TFIREFOX_2_0_0_20_RELEASE
+/viewsource.js/1.47.18.1/Thu Aug 31 09:52:59 2006//TFIREFOX_2_0_0_20_RELEASE
+D/mac////
+D/unix////
+D/win////

@@ -1,0 +1,15 @@
+/Makefile/1.2/Sun Apr 25 15:03:03 2004//TNSS_3_11_4_RTM
+/certhigh.c/1.34.2.3/Fri Jun  9 01:23:17 2006//TNSS_3_11_4_RTM
+/certhtml.c/1.6/Thu Jun 30 20:53:57 2005//TNSS_3_11_4_RTM
+/certreq.c/1.6/Wed Oct 12 00:10:17 2005//TNSS_3_11_4_RTM
+/certvfy.c/1.44.10.5/Wed Nov  8 19:49:04 2006//TNSS_3_11_4_RTM
+/config.mk/1.3/Sun Apr 25 15:03:03 2004//TNSS_3_11_4_RTM
+/crlv2.c/1.4/Thu Jun 30 20:53:57 2005//TNSS_3_11_4_RTM
+/manifest.mn/1.4.28.1/Fri Feb  3 18:16:45 2006//TNSS_3_11_4_RTM
+/ocsp.c/1.21.2.8/Mon Nov 13 18:22:26 2006//TNSS_3_11_4_RTM
+/ocsp.h/1.6.28.1/Fri Feb  3 18:16:45 2006//TNSS_3_11_4_RTM
+/ocspi.h/1.2.2.2/Fri Feb  3 18:16:45 2006//TNSS_3_11_4_RTM
+/ocspt.h/1.4.28.2/Fri Feb  3 20:24:21 2006//TNSS_3_11_4_RTM
+/ocspti.h/1.5/Sun Apr 25 15:03:03 2004//TNSS_3_11_4_RTM
+/xcrldist.c/1.4/Sun Apr 25 15:03:03 2004//TNSS_3_11_4_RTM
+D

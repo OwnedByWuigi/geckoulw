@@ -1,0 +1,15 @@
+/.cvsignore/1.1/Wed Apr  7 23:48:15 2004//TFIREFOX_2_0_0_20_RELEASE
+/CFGParser.pm/1.1.2.2/Thu Feb  9 21:15:57 2006//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.4/Tue Feb  1 17:07:16 2005//TFIREFOX_2_0_0_20_RELEASE
+/build_static.pl/1.9.2.4/Wed May 24 01:59:04 2006//TFIREFOX_2_0_0_20_RELEASE
+/make-installjsremoves.pl/1.1.2.2/Mon Sep 26 19:38:56 2005//TFIREFOX_2_0_0_20_RELEASE
+/makeall.pl/1.4.10.2/Thu Feb  9 21:15:57 2006//TFIREFOX_2_0_0_20_RELEASE
+/makecfgini.pl/1.6.4.1/Thu Feb  9 21:15:57 2006//TFIREFOX_2_0_0_20_RELEASE
+/makeinstallini.pl/1.1/Thu Jul 14 15:46:26 2005//TFIREFOX_2_0_0_20_RELEASE
+/makejs.pl/1.5.10.1/Thu Feb  9 21:15:57 2006//TFIREFOX_2_0_0_20_RELEASE
+/makexpi.pl/1.4.10.1/Thu Oct 20 22:46:07 2005//TFIREFOX_2_0_0_20_RELEASE
+/package-name.mk/1.4.8.3/Fri Apr  4 09:21:26 2008//TFIREFOX_2_0_0_20_RELEASE
+/packager.mk/1.16.2.18/Fri Apr  4 20:31:10 2008//TFIREFOX_2_0_0_20_RELEASE
+/parseandmakejs.pl/1.1.2.3/Wed Sep 28 16:42:29 2005//TFIREFOX_2_0_0_20_RELEASE
+D/unix////
+D/windows////

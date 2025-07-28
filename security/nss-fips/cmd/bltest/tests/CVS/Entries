@@ -1,0 +1,21 @@
+/README/1.2/Fri Nov  1 21:03:24 2002//TNSS_3_11_4_RTM
+D/aes_cbc////
+D/aes_ecb////
+D/des3_cbc////
+D/des3_ecb////
+D/des_cbc////
+D/des_ecb////
+D/dsa////
+D/ecdsa////
+D/md2////
+D/md5////
+D/rc2_cbc////
+D/rc2_ecb////
+D/rc4////
+D/rc5_cbc////
+D/rc5_ecb////
+D/rsa////
+D/sha1////
+D/sha256////
+D/sha384////
+D/sha512////

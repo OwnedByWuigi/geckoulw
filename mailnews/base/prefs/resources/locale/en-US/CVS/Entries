@@ -1,0 +1,27 @@
+/AccountManager.dtd/1.18/Tue Feb  8 17:01:47 2005//TFIREFOX_2_0_0_20_RELEASE
+/AccountWizard.dtd/1.15.28.1/Wed Nov 29 23:21:09 2006//TFIREFOX_2_0_0_20_RELEASE
+/am-addressing.dtd/1.8/Wed Jul 13 21:40:53 2005//TFIREFOX_2_0_0_20_RELEASE
+/am-advanced.dtd/1.14/Thu Mar  3 18:08:46 2005//TFIREFOX_2_0_0_20_RELEASE
+/am-copies.dtd/1.19.8.1/Mon Jul 17 21:25:21 2006//TFIREFOX_2_0_0_20_RELEASE
+/am-identities-list.dtd/1.1/Wed May 12 22:29:18 2004//TFIREFOX_2_0_0_20_RELEASE
+/am-identity-advanced.dtd/1.8/Sat Aug 16 23:14:21 2003//TFIREFOX_2_0_0_20_RELEASE
+/am-identity-edit.dtd/1.2/Wed Nov 10 21:41:00 2004//TFIREFOX_2_0_0_20_RELEASE
+/am-imap-advanced.dtd/1.7/Sat Aug 16 23:14:21 2003//TFIREFOX_2_0_0_20_RELEASE
+/am-junk.dtd/1.1.2.1/Thu May 18 19:33:11 2006//TFIREFOX_2_0_0_20_RELEASE
+/am-main.dtd/1.21/Thu Mar  3 18:08:46 2005//TFIREFOX_2_0_0_20_RELEASE
+/am-offline.dtd/1.9/Wed Jun  1 17:14:59 2005//TFIREFOX_2_0_0_20_RELEASE
+/am-server-advanced.dtd/1.6/Wed Jun 15 22:06:34 2005//TFIREFOX_2_0_0_20_RELEASE
+/am-server-top.dtd/1.40.2.1/Wed Sep 27 20:32:35 2006//TFIREFOX_2_0_0_20_RELEASE
+/am-serverwithnoidentities.dtd/1.5/Thu Sep  2 20:07:57 2004//TFIREFOX_2_0_0_20_RELEASE
+/mailPrefsOverlay.dtd/1.20.6.5/Thu Aug 10 21:26:57 2006//TFIREFOX_2_0_0_20_RELEASE
+/pref-character_encoding.dtd/1.1.10.2/Sat Mar 11 00:52:19 2006//TFIREFOX_2_0_0_20_RELEASE
+/pref-junk.dtd/1.1.2.2/Wed Jun 28 17:18:28 2006//TFIREFOX_2_0_0_20_RELEASE
+/pref-labels.dtd/1.2.140.3/Thu Sep 28 18:13:29 2006//TFIREFOX_2_0_0_20_RELEASE
+/pref-mailnews.dtd/1.34.4.2/Sat Mar 11 01:23:29 2006//TFIREFOX_2_0_0_20_RELEASE
+/pref-notifications.dtd/1.5.28.4/Fri Jun 23 18:52:23 2006//TFIREFOX_2_0_0_20_RELEASE
+/pref-offline.dtd/1.5.28.1/Fri Mar 10 23:51:52 2006//TFIREFOX_2_0_0_20_RELEASE
+/pref-receipts.dtd/1.12.28.2/Sat Mar 11 01:23:29 2006//TFIREFOX_2_0_0_20_RELEASE
+/pref-viewing_messages.dtd/1.23.6.5/Tue Nov 28 21:54:11 2006//TFIREFOX_2_0_0_20_RELEASE
+/prefs.properties/1.35.8.1/Thu May 18 19:33:11 2006//TFIREFOX_2_0_0_20_RELEASE
+/smtpEditOverlay.dtd/1.10/Thu Mar  3 18:08:46 2005//TFIREFOX_2_0_0_20_RELEASE
+D

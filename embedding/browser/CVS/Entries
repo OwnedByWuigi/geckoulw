@@ -1,0 +1,11 @@
+/.cvsignore/1.1/Thu Feb  3 00:58:38 2000//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.16/Tue Mar 29 19:34:24 2005//TFIREFOX_2_0_0_20_RELEASE
+D/activex////
+D/build////
+D/chrome////
+D/cocoa////
+D/gtk////
+D/photon////
+D/powerplant////
+D/qt////
+D/webBrowser////

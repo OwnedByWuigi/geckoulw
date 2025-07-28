@@ -1,0 +1,11 @@
+/.cvsignore/1.1/Sun Aug  4 05:44:24 2002//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.28/Wed Jul 27 21:46:38 2005//TFIREFOX_2_0_0_20_RELEASE
+D/components////
+D/content////
+D/library////
+D/locales////
+D/mozapps////
+D/obsolete////
+D/profile////
+D/themes////
+D/xre////

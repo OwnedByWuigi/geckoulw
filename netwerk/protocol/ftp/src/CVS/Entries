@@ -1,0 +1,11 @@
+/.cvsignore/1.1/Fri May 28 09:10:38 1999//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.46/Mon Jul 25 20:27:03 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsFTPChannel.cpp/1.147.2.2/Tue Sep 20 22:27:23 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsFTPChannel.h/1.84.8.1/Tue Sep 20 22:27:23 2005//TFIREFOX_2_0_0_20_RELEASE
+/nsFtpConnectionThread.cpp/1.296.8.6/Wed Sep 12 16:11:48 2007//TFIREFOX_2_0_0_20_RELEASE
+/nsFtpConnectionThread.h/1.114.8.2/Wed Sep 12 16:11:48 2007//TFIREFOX_2_0_0_20_RELEASE
+/nsFtpControlConnection.cpp/1.38/Tue Nov 16 02:30:02 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsFtpControlConnection.h/1.24/Mon Nov 15 20:16:49 2004//TFIREFOX_2_0_0_20_RELEASE
+/nsFtpProtocolHandler.cpp/1.86.8.1/Wed Feb 15 09:18:00 2006//TFIREFOX_2_0_0_20_RELEASE
+/nsFtpProtocolHandler.h/1.32/Sun Apr 18 21:59:16 2004//TFIREFOX_2_0_0_20_RELEASE
+D

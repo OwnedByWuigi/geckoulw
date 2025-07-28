@@ -1,0 +1,10 @@
+/.cvsignore/3.2/Sat Dec  5 09:03:28 1998//TFIREFOX_2_0_0_20_RELEASE
+/BidiMirroring.txt/1.3/Thu Apr  7 14:24:51 2005//TFIREFOX_2_0_0_20_RELEASE
+/ColorNames.txt/3.2/Mon Oct 26 23:23:48 1998//TFIREFOX_2_0_0_20_RELEASE
+/HTMLTags.txt/3.1/Mon Apr 13 21:19:18 1998//TFIREFOX_2_0_0_20_RELEASE
+/Makefile.in/1.7/Sun Apr 18 14:30:35 2004//TFIREFOX_2_0_0_20_RELEASE
+/genbidicattable.pl/1.5.12.1/Wed Aug 16 06:05:43 2006//TFIREFOX_2_0_0_20_RELEASE
+/genhash.inc/3.4/Sun Apr 18 14:30:35 2004//TFIREFOX_2_0_0_20_RELEASE
+/genhash.pl/3.5/Sun Apr 18 14:30:35 2004//TFIREFOX_2_0_0_20_RELEASE
+/gensymmtable.pl/1.5/Thu Apr  7 14:24:52 2005//TFIREFOX_2_0_0_20_RELEASE
+D/tests////
