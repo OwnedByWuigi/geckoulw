@@ -129,14 +129,24 @@ int sqlite3_os_type = 0;
 */
 static WCHAR *utf8ToUnicode(const char *zFilename){
   int nChar;
+  int nCharcpy;
   WCHAR *zWideFilename;
 
-  nChar = MultiByteToWideChar(CP_UTF8, 0, zFilename, -1, NULL, 0);
-  zWideFilename = sqliteMalloc( nChar*sizeof(zWideFilename[0]) );
+  nCharcpy = MultiByteToWideChar(CP_UTF8, 0, zFilename, -1, NULL, 0);
+  if( zFilename!=0 && nCharcpy == 0) {
+    /* UTF8 conversion failed. This happens on NT 3.51 and 95. Make do with ACP conversion instead. */
+    nCharcpy = MultiByteToWideChar(CP_ACP, 0, zFilename, -1, NULL, 0);
+  }
+  zWideFilename = sqliteMalloc( nCharcpy*sizeof(zWideFilename[0]) );
   if( zWideFilename==0 ){
     return 0;
   }
-  nChar = MultiByteToWideChar(CP_UTF8, 0, zFilename, -1, zWideFilename, nChar);
+  nChar = MultiByteToWideChar(CP_UTF8, 0, zFilename, -1, zWideFilename, nCharcpy);
+  if( zFilename!=0 && nChar == 0) {
+    /* UTF8 conversion failed. This happens on NT 3.51 and 95. Make do with ACP conversion instead. */
+    nChar = MultiByteToWideChar(CP_ACP, 0, zFilename, -1, zWideFilename, nCharcpy);
+  }
+
   if( nChar==0 ){
     sqliteFree(zWideFilename);
     zWideFilename = 0;
@@ -150,15 +160,25 @@ static WCHAR *utf8ToUnicode(const char *zFilename){
 */
 static char *unicodeToUtf8(const WCHAR *zWideFilename){
   int nByte;
+  int nBytecpy;
   char *zFilename;
 
-  nByte = WideCharToMultiByte(CP_UTF8, 0, zWideFilename, -1, 0, 0, 0, 0);
-  zFilename = sqliteMalloc( nByte );
+  nBytecpy = WideCharToMultiByte(CP_UTF8, 0, zWideFilename, -1, 0, 0, 0, 0);
+  if( zWideFilename!=0 && nBytecpy == 0) {
+    /* UTF8 conversion failed. This happens on NT 3.51 and 95. Make do with ACP conversion instead. */
+    nBytecpy = WideCharToMultiByte(CP_ACP, 0, zWideFilename, -1, 0, 0, 0, 0);
+  }
+  zFilename = sqliteMalloc( nBytecpy );
   if( zFilename==0 ){
     return 0;
   }
-  nByte = WideCharToMultiByte(CP_UTF8, 0, zWideFilename, -1, zFilename, nByte,
+  nByte = WideCharToMultiByte(CP_UTF8, 0, zWideFilename, -1, zFilename, nBytecpy,
                               0, 0);
+  if( zWideFilename!=0 && nByte == 0) {
+    /* UTF8 conversion failed. This happens on NT 3.51 and 95. Make do with ACP conversion instead. */
+    nByte = WideCharToMultiByte(CP_ACP, 0, zWideFilename, -1, zFilename, nBytecpy,
+                                0, 0);
+  }
   if( nByte == 0 ){
     sqliteFree(zFilename);
     zFilename = 0;
@@ -1471,8 +1491,15 @@ void sqlite3WinEnterMutex(){
 #ifdef SQLITE_W32_THREADS
   static int isInit = 0;
   while( !isInit ){
-    static long lock = 0;
-    if( InterlockedIncrement(&lock)==1 ){
+
+    /* On NT 3.51 and 95g the return value of InterlockedIncrement may not */
+    /* be the same as the result - unless the result is zero.  */
+
+    /* Since we only care about the first lock here, start counting at -1 */
+    /* instead of zero and check for the first lock which is now zero. */
+
+    static long lock = -1;
+    if( InterlockedIncrement(&lock)==0 ){
       InitializeCriticalSection(&cs);
       isInit = 1;
     }else{

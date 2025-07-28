@@ -1167,6 +1167,10 @@ nsresult CNavDTD::HandleDefaultStartToken(CToken* aToken,eHTMLTags aChildTag,nsC
     do {
    
       eHTMLTags theParentTag=mBodyContext->TagAt(--theIndex);
+      if (theParentTag == eHTMLTag_userdefined) {
+        continue;
+      } // patch from bug 311366
+
       theParentContains=CanContain(theParentTag,aChildTag);  //precompute containment, and pass it to CanOmit()...
 
       if(CanOmit(theParentTag,aChildTag,theParentContains)) {
